@@ -1,0 +1,36 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:15:"osCommerce Apps";s:4:"link";s:26:"https://app.oscommerce.com";s:11:"description";s:35:"osCommerce Apps Marketplace Listing";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2022 osCommerce";s:14:"managingEditor";s:20:"hello@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:69:"https://www.oscommerce.com/public/sites/Website/images/oscommerce.png";s:10:"image_link";s:26:"https://www.oscommerce.com";s:5:"items";a:3:{i:0;a:4:{s:5:"title";s:23:"osCommerce 4.09 release";s:4:"link";s:55:"https://www.oscommerce.com/blog/oscommerce-4-09-release";s:11:"description";s:878:"osCommerce﻿&nbsp;4.09 has been released.<br />
+<br />
+Download your own or use "Host with osCommerce" to have it installed on one of our servers for you.<br />
+<br />
+New features, changes, and fixes are described in osCommerce Wiki:&nbsp;<br>
+https://wiki.oscommerce.com/index.php?title=Change_Log<br />
+<br />
+To upgrade from osCommerce﻿&nbsp;4.x proceed with the following:﻿<br />
+<br />
+1. Connect to the App Shop:<br>
+https://wiki.oscommerce﻿.com/index.php?title=Connecting_to_App_Shop<br />
+<br />
+2. Choose the "System Update" ﻿tab of the App Shop menu&nbsp;<br />
+<br />
+3. Press the "Update now" button to initiate the update&nbsp;<br />
+<br />
+A great deal of changes, and new features comes with this release.&nbsp;<br />
+<br />
+We truly appreciate help and support from the members of osCommerce community. Your feedback helps us build a better osCommerce!";s:7:"pubDate";s:36:"Thu, 23 February 2023 09:00:00 +0100";}i:1;a:4:{s:5:"title";s:50:"osCommerce 4.08 - released today, time to upgrade!";s:4:"link";s:86:"https://www.oscommerce.com/blog/oscommerce-4-08-release-and-connecting-to-the-app-shop";s:11:"description";s:317:"osCommerce  4.08  has  been released today. 8th update in less than 5
+months.  We continue to develop this amazing open source free low-code
+Ecommerce  platform for you. It is time to stop using previous old version
+and  upgrade to the latest osCommerce. No need to wait - contact us or
+one of our dev partners today!";s:7:"pubDate";s:35:"Fri, 9 December 2022 09:00:00 +0100";}i:2;a:4:{s:5:"title";s:24:"Upgrade to osCommerce 4!";s:4:"link";s:55:"https://www.oscommerce.com/blog/oscommerce-4-02-release";s:11:"description";s:905:"osCommerce 4 is here! Download from osCommerce.com or have it installed on one of our servers for free (for 1 month) with FTP and mySQL access.<br />
+<br />
+Reasons to upgrade:<br />
+<br />
+- osCommerce v4 is FREE and open source, as always<br />
+- No coding required to manage your new osCommerce - extensive CMS<br />
+- Compatibility with the latest (safe and secure) PHP and mySQL, unlike osCommerce v2.x and some of its “forks”<br />
+- The latest PayPal module, with Buy Now Pay Later (terms apply), Stripe, etc<br />
+- Design templates and built-in CMS editor<br />
+- Change any text via the built in the CMS<br />
+- Create or edit orders in the back end<br />
+-  Access  a multitude of new features, including native and 3rd party Apps and Design templates in the new App shop<br />
+<br />
+Ask your osCommerce developer for a quote, or contact osCommerce directly to discuss your interest.<br />";s:7:"pubDate";s:33:"Tue, 9 August 2022 09:00:00 +0100";}}s:11:"items_count";i:3;}

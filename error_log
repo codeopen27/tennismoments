@@ -1,0 +1,88 @@
+[10-May-2023 05:11:46 America/New_York] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/tennkzjz/public_html/includes/functions/compatibility.php on line 46
+[10-May-2023 05:11:46 America/New_York] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/tennkzjz/public_html/includes/functions/compatibility.php on line 22
+[10-May-2023 05:11:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/tennkzjz/public_html/includes/functions/database.php on line 20
+[10-May-2023 14:29:54 Europe/Berlin] PHP Fatal error:  Class 'GuzzleHttp\Client' not found in /home/tennkzjz/public_html/includes/modules/new_products.php on line 58
+[10-May-2023 14:32:06 Europe/Berlin] PHP Fatal error:  Class 'HttpRequest' not found in /home/tennkzjz/public_html/includes/modules/new_products.php on line 58
+[10-May-2023 14:35:40 Europe/Berlin] PHP Fatal error:  Class 'HttpRequest' not found in /home/tennkzjz/public_html/includes/modules/new_products.php on line 58
+[11-May-2023 13:52:04 Europe/Berlin] PHP Warning:  Division by zero in /home/tennkzjz/public_html/includes/classes/split_page_results.php on line 59
+[12-May-2023 07:49:02 Europe/Berlin] PHP Warning:  require(includes/header.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/includes/template_top.php on line 57
+[12-May-2023 07:49:02 Europe/Berlin] PHP Warning:  require(includes/header.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/includes/template_top.php on line 57
+[12-May-2023 07:49:02 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'includes/header.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tennkzjz/public_html/includes/template_top.php on line 57
+[15-May-2023 03:02:54 America/New_York] PHP Parse error:  syntax error, unexpected 'under' (T_STRING) in /home/tennkzjz/public_html/includes/application_top.php on line 1
+[15-May-2023 03:02:59 America/New_York] PHP Parse error:  syntax error, unexpected 'under' (T_STRING) in /home/tennkzjz/public_html/includes/application_top.php on line 1
+[15-May-2023 09:08:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:09:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:10:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:14:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:20:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:21:31 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:49 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:26:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:30:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:34:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:35:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:35:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:36:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:37:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:38:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:38:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:44:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:47:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:52:53 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:53:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 09:58:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:03:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:05:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:10:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:11:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:12:52 Europe/Berlin] PHP Warning:  require(includes/password_protect.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:12:52 Europe/Berlin] PHP Warning:  require(includes/password_protect.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:12:52 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'includes/password_protect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:12:53 Europe/Berlin] PHP Warning:  require(includes/password_protect.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:12:53 Europe/Berlin] PHP Warning:  require(includes/password_protect.php): failed to open stream: No such file or directory in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:12:53 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'includes/password_protect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tennkzjz/public_html/index.php on line 39
+[15-May-2023 10:13:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 10:18:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/tennkzjz/public_html/includes/password_protect.php on line 3
+[15-May-2023 06:25:22 America/New_York] PHP Warning:  move_uploaded_file(upload/codinglogo.png): failed to open stream: No such file or directory in /home/tennkzjz/public_html/upload-manager.php on line 25
+[15-May-2023 06:25:22 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphebe4e' to 'upload/codinglogo.png' in /home/tennkzjz/public_html/upload-manager.php on line 25
+[15-May-2023 06:30:18 America/New_York] PHP Notice:  Undefined index: upload in /home/tennkzjz/public_html/upload-manager.php on line 25
+[15-May-2023 06:34:23 America/New_York] PHP Notice:  Undefined index: upload in /home/tennkzjz/public_html/upload-manager.php on line 9
+[15-May-2023 06:34:23 America/New_York] PHP Notice:  Undefined index: upload in /home/tennkzjz/public_html/upload-manager.php on line 34
+[15-May-2023 07:03:51 America/New_York] PHP Notice:  Undefined index: public_html/upload in /home/tennkzjz/public_html/upload-manager.php on line 9
+[15-May-2023 07:03:51 America/New_York] PHP Notice:  Undefined index: upload in /home/tennkzjz/public_html/upload-manager.php on line 34
+[15-May-2023 07:12:53 America/New_York] PHP Notice:  Undefined index: /home/tennkzjz/public_html/upload in /home/tennkzjz/public_html/upload-manager.php on line 9
+[15-May-2023 07:12:53 America/New_York] PHP Notice:  Undefined index: upload in /home/tennkzjz/public_html/upload-manager.php on line 34
+[15-May-2023 07:23:08 America/New_York] PHP Notice:  Undefined index: tmp_folder in /home/tennkzjz/public_html/upload-manager.php on line 9
+[15-May-2023 07:23:08 America/New_York] PHP Notice:  Undefined index: tmp_upload in /home/tennkzjz/public_html/upload-manager.php on line 34
+[15-May-2023 07:24:16 America/New_York] PHP Notice:  Undefined index: tmp_upload in /home/tennkzjz/public_html/upload-manager.php on line 9
+[15-May-2023 07:24:16 America/New_York] PHP Notice:  Undefined index: tmp_upload in /home/tennkzjz/public_html/upload-manager.php on line 34
+[15-May-2023 08:12:19 America/New_York] PHP Notice:  Undefined variable: allowed in /home/tennkzjz/public_html/upload-manager.php on line 22
+[15-May-2023 08:12:19 America/New_York] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tennkzjz/public_html/upload-manager.php on line 22
+[15-May-2023 09:17:21 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 5
+[15-May-2023 09:17:21 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 7
+[15-May-2023 09:17:31 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 5
+[15-May-2023 09:17:31 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 7
+[15-May-2023 09:18:37 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 5
+[15-May-2023 09:18:37 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 7
+[15-May-2023 09:25:35 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 5
+[15-May-2023 09:25:35 America/New_York] PHP Notice:  Undefined index: file in /home/tennkzjz/public_html/upload-manager.php on line 7
+[15-May-2023 09:46:09 America/New_York] PHP Parse error:  syntax error, unexpected '"The file "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tennkzjz/public_html/upload-manager.php on line 11
